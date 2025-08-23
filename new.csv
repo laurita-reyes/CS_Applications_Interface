@@ -1,0 +1,420 @@
+,Company,Role,Location,Application,Age
+0,IXL Learning,Software Engineer â New Grad,"Raleigh, NC",,0d
+1,â³,Software Engineer â New Grad,"San Mateo, CA",,0d
+2,ð¥ Visa,Software Engineer I,"Austin, TX",,0d
+3,Nominal,Software Engineer â New Grad,NYC,,0d
+4,Hewlett Packard Enterprise,Systems/Software Engineer I,"Fort Collins, CO",,0d
+5,Cisco,Software Engineer I ð,"San Jose, CA",,0d
+6,ð¥ Meta,"Software Engineer, Language - Wearables","Menlo Park, CANew York, NY",,0d
+7,Nominal,Software Engineer ðºð¸,"New York, NYLos Angeles, CAAustin, TX",,0d
+8,Peraton,Junior Software Engineer,"King George County, VA",,0d
+9,ð¥ Oracle,Undergrad Cloud Engineer - Full-time Intern Conversion ð,"Redwood City, CA",,0d
+10,Jerry,Software Engineer I,"San Francisco, CA",,0d
+11,Whatnot,"Software Engineer, Notifications Platform","San Francisco, CALos Angeles, CANew York, NY",,0d
+12,ð¥ TikTok,Software Engineer Graduate (Video-on-Demand Algorithm),"San Jose, CA",,0d
+13,â³,Software Engineer Graduate (Data Arch - E-commerce),"San Jose, CA",,0d
+14,ð¥ ByteDance,Software Engineer in ML Systems Graduate,"San Jose, CA",,0d
+15,ð¥ Palantir,Software Engineer â New Grad - Infrastructure,"Palo Alto, CA",,1d
+16,â³,Software Engineer â New Grad - Production Infrastructure,"Washington, DC",,1d
+17,ð¥ ByteDance,Software Engineer Graduate (Edge Platform),"San Jose, CA",,1d
+18,ð¥ TikTok,Software Engineer Graduate (Commerce Ads),"San Jose, CA",,1d
+19,â³,Software Engineer Graduate (Media Platform),"San Jose, CA",,1d
+20,â³,Software Engineer Graduate (Foundation Platform),"San Jose, CA",,1d
+21,Robin,Associate Software Engineer (AI-Native),"Boston, MA",,1d
+22,Canonical,Software Engineer - Python - Cloud ð,Remote in USA,,1d
+23,ð¥ Notion,Software Engineer â Early Career - Infrastructure,SFNYC,,2d
+24,RTX,2025 Fulltime - Raytheon Missile Defense Sensors Software Engineer I,"Burlington, MA",,2d
+25,The Travelers Companies,Software Engineer I - Workday Programmer - Report Writer - Eib,"Hartford, CTSt Paul, MN",,2d
+26,Citadel,Software Engineer â University Graduate,"London, UK",,2d
+27,ZOLL Medical Corporation,Software Engineer I - Applications,"Lowell, MABroomfield, CO",,2d
+28,BAE Systems,Junior Software Engineer ðºð¸,"Hill AFB, UT",,3d
+29,GlobalFoundries,"Manufacturing Software Engineer, Test Program Applications & Automation","Essex Junction, VT",,3d
+30,qode.world,Junior Software Developer,NJ,,3d
+31,Western Digital,New College Grad Software Engineer - Software Engineering Development - Apps ð,"San Jose, CA",,5d
+32,Hewlett Packard Enterprise,Systems/Software Engineer I,"San Jose, CA",,5d
+33,Prosidian Consulting,ITSM IT Security Engineer I,"Boulder, CO",,5d
+34,â³,ITSM IT Security Engineer I,"Seattle, WA",,5d
+35,Anduril,Early Career Software Engineer,"Washington, DC",,5d
+36,Artefact,Junior Software Engineer,"London, UK",,5d
+37,The Travelers Companies,Software Engineer I - AWS/Node/React/AI,"Atlanta, GA",,5d
+38,â³,Software Engineer I - AWS/Node/React/AI,"Hartford, CTRichardson, TXSt Paul, MN",,5d
+39,Esri,Software Development Engineer I,"St. Louis, MO",,5d
+40,Neo Financial,Junior Software Developer,"Calgary, AB, Canada",,5d
+41,Suno,Software Engineer â Early Career,"Boston, MANYC",,5d
+42,Esri,Software Development Engineer I,"St. Louis, MO",,5d
+43,Choice Hotels,Software Engineer 1,"Scottsdale, AZ",,5d
+44,Anduril,Early Career Software Engineer,"Boston, MA",,5d
+45,â³,Early Career Software Engineer,"Newport Beach, CA",,5d
+46,Citadel,Software Engineer â University Graduate,"London, UK",,5d
+47,KBR,Software Developer â Entry Level,"Maui, Hawaii",,5d
+48,Disney,Software Engineer I,"Seattle, WA",,5d
+49,General Dynamics Mission Systems,Entry Level Software Engineer ðºð¸,"Pittsburgh, PA",,5d
+50,Anduril Industries,Early Career Software Engineer ðºð¸,"Atlanta, GA",,5d
+51,â³,Early Career Software Engineer ðºð¸,"Washington, DC",,5d
+52,â³,Early Career Software Engineer ðºð¸,"Boston, MA",,5d
+53,KBR,Software Engineer I ðºð¸,"Colorado Springs, CO",,5d
+54,ð¥ TikTok,Software Engineer Graduate (Recommendation Platform) - 2026 Start (BS/MS),"San Jose, CA",,5d
+55,ð¥ ByteDance,Software Engineer Graduate (Dev Infra) - 2026 Start (BS/MS),"San Jose, CA",,5d
+56,AG Technologies,Hiring Entry Level Software Engineer ð,"Chesterfield, MO",,6d
+57,â³,Hiring Entry Level Software Engineer ð,SF,,6d
+58,â³,Hiring Entry Level Software Engineer ð,"San Diego, CA",,6d
+59,â³,Hiring Entry Level Software Engineer ð,"Dayton, OH",,6d
+60,â³,Hiring Entry Level Software Engineer ð,NYC,,6d
+61,â³,Hiring Entry Level Software Engineer ð,"Dallas, TX",,6d
+62,â³,Entry Level Software Engineer ð,"San Antonio, TX",,6d
+63,â³,Entry Level Software Engineers ð,"Galveston, TX",,6d
+64,â³,Entry Level software engineer ð,"Tampa, FL",,6d
+65,â³,Hiring Entry Level Software Engineer ð,"Casa Grande, AZ",,6d
+66,Apex,Software Engineer I (ALDP),"Austin, TX",,6d
+67,Folia Health,Junior Software Engineer ð,"Boston, MA",,6d
+68,Sev1Tech,Software Developer - Entry Level ðºð¸,"Fort Sill, OK",,6d
+69,Veterans United Home Loans,Associate Software Engineer,"Remote, MO",,6d
+70,BRM,Entry Level Software Engineer,"San Francisco, CA",,6d
+71,Citadel Securities,C++ Software Engineer,"Miami, FLLondon, UK",,6d
+72,ð¥ Rippling,Software Engineer - Spend Growth,"New York, NY",,6d
+73,Suno,Software Engineer ð,"Boston, MANew York, NY",,6d
+74,Apex Fintech Solutions,Software Engineer I - Aldp,"Austin, TX",,6d
+75,AG Technologies,Hiring Entry Level Software Engineer ð,SF,,7d
+76,Applied Intuition,Software Engineer,"Mountain View, CA",,8d
+77,AG Technologies,Entry Level Software Engineer ð,"Chesterfield, MO",,8d
+78,â³,Hiring Entry Level Software Engineer ð,"Dallas, TX",,8d
+79,Applied Intuition,Software Engineer - New Grad,"Mountain View, CA",,8d
+80,Anduril Industries,Early Career Software Engineer ðºð¸,"Seattle, WA",,8d
+81,â³,Early Career Software Engineer ðºð¸,"Atlanta, GA",,8d
+82,AG Technologies,Hiring Entry Level Software Engineer ð,"San Jose, CA",,8d
+83,ð¥ Salesforce,Software Engineering AMTS â New Grad,"4 locationsPalo Alto, CASeattle, WASFBellevue, WA",,8d
+84,Prosidian Consulting,ITSM IT Security Engineer I ðºð¸,"Washington, DC",,8d
+85,Remodel Health,Junior Software Engineer,"Indianapolis, IN",,8d
+86,Anduril Industries,"Software Engineer, Connected Warfare ðºð¸","Costa Mesa, CA",,8d
+87,â³,Early Career Software Engineer ðºð¸,"Costa Mesa, CA",,8d
+88,AG Technologies,Hiring Entry Level Software Engineer ð,"San Diego, CA",,8d
+89,â³,Hiring Entry Level Software Engineer ð,"San Diego, CA",,8d
+90,â³,Hiring Entry Level Software Engineer ð,SF,,8d
+91,â³,Hiring Entry Level Software Engineer ð,SF,,8d
+92,â³,Hiring Entry Level Software Engineer ð,"Flower Mound, TX",,8d
+93,HNTB,Returning New Grad Software Engineer I,"Chicago, ILKansas City, MOOverland Park, KS",,8d
+94,AG Technologies,Hiring Entry Level Software Engineer ð,"Dallas, TX",,8d
+95,â³,Hiring Entry Level Software Engineer ð,NYC,,8d
+96,Peraton,"Software Engineering, Associate ðºð¸","Herndon, VA",,11d
+97,Moog,Associate Software Engineer ðºð¸,"Torrance, CA",,11d
+98,ð¥ Databricks,Software Engineer â New Grad - Distributed Data Systems - 2025 Start,"Bellevue, WAMountain View, CA",,12d
+99,â³,Software Engineer â New Grad - 2026 Start,"Mountain View, CA",,12d
+100,ð¥ TikTok,Software Engineer Graduate Social - 2026 Start,"Los Angeles, CA",,12d
+101,â³,"SDET, Software Development Engineer in Test","San Jose, CA",,12d
+102,Cook Systems,Software Developer ð,"Nashville, TN",,12d
+103,Ping Identity,Software Engineer I,"Denver, CO",,12d
+104,ð¥ Oracle,Undergrad Software Engineer ð,"Seattle, WA",,12d
+105,Maxar,Forward Deployed Software Engineer I,"Herndon, VA",,12d
+106,i3,Entry Level Full-Stack Software Engineer,"Huntsville, AL",,13d
+107,ð¥ Roblox,Software Engineer â Early Career,"San Mateo, CA",,13d
+108,Five Rings,Software Developer,"New York, NY",,13d
+109,i3,Full-Stack Software Engineer ðºð¸,"Hunstville, AL",,14d
+110,Bree,Software Engineer â New Graduate,"Toronto, ON, Canada",,15d
+111,BRM,Entry Level Software Engineer,"San Francisco, CA",,15d
+112,SimIS,Junior Software Developer - Modeling & Simulation ðºð¸,"Suffolk, VA",,15d
+113,ð¥ Ramp,Software Engineer - Frontend,"New York, NY",,16d
+114,ð¥ ByteDance,Backend Software Engineer (Customer Service Platform) - 2026 Start (BS/MS),"Seattle, WA",,16d
+115,â³,3D Graphics Software Engineer (PICO Foundation) - 2026 Start (BS/MS),"San Jose, CA",,16d
+116,ð¥ TikTok,"Software Engineer, Short Video - 2026 Start (BS/MS)","Los Angeles, CA",,16d
+117,â³,Software Engineer (Ads Measurement Signal Technology) - 2026 Start (BS/MS),"San Jose, CA",,16d
+118,â³,"Software Engineer, Short Video - 2026 Start (BS/MS)","Seattle, WA",,16d
+119,â³,"Software Engineer, Risk and Response - 2026 Start (BS/ MS)","Seattle, WA",,16d
+120,â³,"Software Engineer, Live-Foundation-Ecosystem - 2026 Start (BS/MS)","San Jose, CA",,16d
+121,â³,"Software Engineer, Short Video - 2026 Start (BS/MS)","San Jose, CA",,16d
+122,â³,"Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS)","San Jose, CA",,16d
+123,â³,Software Engineer (Monetization Technology - Ads Creative) - 2026 Start (BS/MS),"San Jose, CA",,16d
+124,â³,"Software Engineer, Music - 2026 Start (BS/MS)","San Jose, CA",,16d
+125,â³,"Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS)","Seattle, WA",,16d
+126,MetroStar,Associate Software Developer ð,"Reston, VA",,16d
+127,JPMorganChase,Software Engineer ð,"10 locationsWilmington, DEAustin, TXChicago, ILColumbus, OHHouston, TXJersey City, NJNew York, NYPalo Alto, CAPlano, TXTampa, FL",,16d
+128,â³,Software Engineer ð,"10 locationsAustin, TXChicago, ILColumbus, OHHouston, TXJersey City, NJNew York, NYPalo Alto, CAPlano, TXTampa, FLWilmington, DE",,16d
+129,ð¥ TikTok,New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration),"San Jose, CA",,18d
+130,Sentry,Software Engineer â New Grad ð,"Toronto, ON, Canada",,19d
+131,â³,Software Engineer â New Grad,"San Francisco, CA",,19d
+132,ð¥ Palantir,Software Engineer â New Grad - Production Infrastructure,"London, UK",,19d
+133,â³,Software Engineer â New Grad - Infrastructure,"London, UK",,19d
+134,â³,Software Engineer â New Grad,"London, UK",,19d
+135,The Travelers Companies,Software Engineer I - Guidewire,"Atlanta, GA",,19d
+136,â³,Software Engineer I - Aws - React - GenAI,"Hartford, CTSt Paul, MN",,19d
+137,â³,Software Engineer I - .Net / MERN / AWS,"Sparks, MDHartford, CTSt Paul, MN",,19d
+138,â³,Software Engineer I - Java - Aws - Jsf,"St Paul, MN",,19d
+139,Aurora Innovation,Software Engineer I,"Pittsburgh, PA",,21d
+140,Blue Origin,Software Development Engineer I ðºð¸,"6 locationsSeattle, WAVan Horn, TXHuntsville, ALDenver, COSpace Coast, FLLos Angeles, CA",,21d
+141,M&T Bank,Technology Development Program - Software Engineering ð,"Buffalo, NY",,21d
+142,Unify,Software Engineer ð,"San Francisco, NY",,22d
+143,â³,New Grad Software Engineer,"San Francisco, CANew York, NY",,22d
+144,Twitch,Software Development Engineer I - Frontend & Mobile,"San Francisco, CA",,23d
+145,Perforce,Software Engineer I,"Belfast, UK",,23d
+146,Amentum,Entry Level Software Engineer/Software Tester,"Fredericksburg, VADahlgren, VA",,26d
+147,Northslope Technologies,Forward Deployed Software Engineer â New Grad,"New York, NYLondon, UK",,28d
+148,TripAdvisor,Software Engineer I - Backend Focus - Viator,"London, UKOxford, UK",,29d
+149,Coalition,Software Engineer I,Remote in Canada,,29d
+150,â³,Software Engineer I,Remote in USA,,29d
+151,mthree,Junior Software Engineer,"4 locationsSalt Lake, UTHouston, TXDalla, TXNew York, NY",,1mo
+152,â³,Mthree â Junior Software Developer,"Multiple Locations, UK",,1mo
+153,â³,Junior Software Engineer,"Multiple Locations, US",,1mo
+154,â³,Mthree â Junior Software Engineer,"Sheffield, UKLiverpool, UK",,1mo
+155,â³,DÃ©veloppeur gÃ©nie logiciel / Junior Software Developer,"Montreal, QC",,1mo
+156,CACI,Entry Level Software Engineer - Automated Testing,"Rochester, NY",,1mo
+157,CACI,Entry Level Software Engineer - GUI Development,"Rochester, NY",,1mo
+158,EvenUp,Software Engineer â New Graduate,"San Francisco, CAToronto, ON",,1mo
+159,Old Mission,College Graduates - Full-Time - Junior Software Engineer,"Chicago, IL",,1mo
+160,Citadel Securities,Software Engineer â University Graduate,"Miami, FLNew York, NY",,1mo
+161,Shield AI,Software Engineer I - Hardware Test,"Dallas, TX",,1mo
+162,Ranger,Forward-Deployed Test Engineer ð,"San Francisco, CA",,1mo
+163,Sigma Computing,Software Engineer â New Grad Program,SFNYC,,1mo
+164,Candid Health,Software Engineer New Grad,"San Francisco, CANew York, NYDenver, CO",,1mo
+165,â³,Forward Deployed Software Engineer New Grad,"San Francisco, CANew York, NYDenver, CO",,1mo
+166,ð¥ Palantir,Software Engineer â New Grad - Infrastructure,"New York, NY",,1mo
+167,â³,Software Engineer â New Grad - Production Infrastructure,"New York, NY",,1mo
+168,â³,Software Engineer â New Grad - Production Infrastructure,"Seattle, WA",,1mo
+169,â³,Software Engineer â New Grad - Defense,"New York, NY",,1mo
+170,â³,Software Engineer â New Grad - Defense,"Washington, DC",,1mo
+171,â³,Software Engineer â New Grad - Defense,"Palo Alto, CA",,1mo
+172,â³,Software Engineer â New Grad,"Seattle, WA",,1mo
+173,â³,Software Engineer â New Grad,"New York, NY",,1mo
+174,â³,Software Engineer â New Grad,"Denver, CO",,1mo
+175,â³,Forward Deployed Software Engineer â New Grad - US Government,"New York, NY",,1mo
+176,â³,Forward Deployed Software Engineer â New Grad - US Government,"Washington, DC",,1mo
+177,OpenEye,Software Engineer I - Ows,"Liberty Lake, WA",,1mo
+178,Sentry,Software Engineer â New Grad,"San Francisco, CA",,1mo
+179,Collective Hub,Software Engineer â New Grad,"San Francisco, CA",,2mo
+180,7shifts,Junior Software Developer,"Saskatoon, SK",,2mo
+181,Tower Research Capital,Software Engineer â New Grad - C++,"New York, NY",,2mo
+182,Numeric,Software Engineer â Early Career,"New York, NY",,2mo
+183,N1,Software Engineer (Backend Rust),"New York, NY",,2mo
+184,â³,New Grad Software Engineer (Backend Rust),"New York, NY",,2mo
+185,â³,New Grad Software Engineer (Full Stack),"New York, NY",,2mo
+186,Numeric,Software Engineer â Early Career,"San Francisco, CANew York, NY",,2mo
+0,The Travelers Companies,Software Engineer I - Enterprise AI for Operations - Aws - Python,"Hartford, CTSt Paul, MN",ð,2d
+1,Hewlett Packard Enterprise,Systems/Software Engineer I,"Spring, TX",ð,5d
+2,Mastercard,Software Engineer I - Backend - Java,"Vancouver, BC, Canada",ð,5d
+3,TekSynap,Junior Software Developer,"11 locationsKansasDelawareIowaFloridaWaterbury, CTGeorgiaArizonaVirginiaArkansasUnited StatesIdaho",ð,5d
+4,BlueCross BlueShield of Tennessee,Associate Software Engineer I,"Chattanooga, TN",ð,6d
+5,ð¥ Meta,Software Engineer (University Grad) ð,"9 locationsSunnyvale, CABellevue, WAMenlo Park, CASeattle, WABurlingame, CAWashington, DCBoston, MANew York, NYSan Francisco, CA",ð,6d
+6,Boeing,Software and Electrical Systems Simulation Integration Engineer,"Miami, FLNew York, NY",ð,8d
+7,DIRECTV,IT Software Engineer 1,Remote in USA,ð,11d
+8,SS&C,Junior AI-Assisted Software Engineer,"South Orange, NJ",ð,11d
+9,Global Relay,Junior Software Developer Engineer in Test - C#,"Vancouver, BC, Canada",ð,11d
+10,Esri,Software Developer Engineer I,"West Redlands, Redlands, CA",ð,12d
+11,FourKites,Software Engineer I,"Chicago, IL",ð,13d
+12,ð¥ Uber,Software Engineer I - Backend,"Sunnyvale, CA",ð,13d
+13,The Travelers Companies,Software Engineer I - Aws,"Baltimore, MD",ð,13d
+14,Medtronic,Software Engineer I - CRM,"Blaine, MN",ð,15d
+15,Broadcom Limited,Entry level Mainframe Software Development Engineer,"Downers Grove, IL",ð,15d
+16,RTX,Software Engineer I,"Burlington, MA",ð,15d
+17,RTX,Back End Processing Network Engineer I,"Bristol, RI",ð,16d
+18,Zoro,Software Engineer I - Release Platform,"Chicago, IL",ð,16d
+19,Terex,Software Engineer I - 3rd Eye,"Austin, TXChattanooga, TN",ð,19d
+20,Quantinuum,Software Engineer I ðºð¸,"Broomfield, CO",ð,19d
+21,Esri,Software Development Engineer I ðºð¸,"St. Louis, MO",ð,19d
+22,â³,Software Development Engineer I ðºð¸,"St. Louis, MO",ð,19d
+23,Motorola,Junior Software Developer,"West Valley City, UT",ð,20d
+24,IMEG,Full Stack Software Engineer 1,"8 locationsLas Vegas, NVNaperville, ILIndianapolis, INHouston, TXLAPasadena, CAPhoenix, AZDavenport, IA",ð,20d
+25,Global Payments,Mainframe Software Engineer I or Above,"Columbus, GA",ð,20d
+26,Leidos,Junior Software Engineer ðºð¸,"Gaithersburg, MD",ð,21d
+27,ð¥ Uber,Software Engineer I - Platforms,"SFSunnyvale, CA",ð,21d
+28,Chewy,Software Engineer I,"Bellevue, WA",ð,21d
+29,Esri,.NET/C# Software Development Engineer I - SDK,"West Redlands, Redlands, CA",ð,21d
+30,RTX,Software Engineer I,"Richardson, TX",ð,22d
+31,TripAdvisor,Software Engineer I,Remote in Canada,ð,23d
+32,Maybern,Software Engineer â New Grad,NYC,ð,26d
+33,Amentum,Entry Level Software Developer,"Dahlgren, VA",ð,26d
+34,â³,Entry Level Software Developer,"Dahlgren, VA",ð,26d
+35,â³,Entry Level Software Developer,"Dahlgren, VA",ð,26d
+36,â³,Entry Level Software Developer,"Dahlgren, VA",ð,26d
+37,RTX,Cyber/Electronic Warfare Research Engineer I,"Columbia, MD",ð,26d
+38,Esri,Software Development Engineer I,"St. Louis, MO",ð,26d
+39,â³,Software Development Engineer I,"St. Louis, MO",ð,26d
+40,Activate Group,Junior Software Developer,Remote in UK,ð,26d
+41,Franklin St,Software Engineer I,"Tampa, FL",ð,27d
+42,Broadcom Limited,Junior R & D Software Engineer,"Palo Alto, CA",ð,28d
+43,mthree,Junior Software Engineer,"Dallas, TX",ð,29d
+44,Chewy,Software Engineer I,"Seattle, WABellevue, WA",ð,29d
+45,Clarity Innovations,Junior Information System Security Engineer - Isse,"Reston, VAColumbia, MD",ð,1mo
+46,Qualtrics,Software Engineer I,"Seattle, WA",ð,1mo
+47,â³,Software Engineer I - Foundation,"Provo, UT",ð,1mo
+48,Truist,Testing Software Engineer I,"Charlotte, NC",ð,1mo
+49,Iridium Communications,Engineer I - Software Developer,"Reston, VAChandler, AZ",ð,1mo
+50,PDI Technologies,Software Engineer I,"Temple, TX",ð,1mo
+51,Akamai Technologies,Software Engineer I,Remote in USA,ð,1mo
+52,Iridium Communications,Engineer I - Software Developer,"Reston, VAChandler, AZ",ð,1mo
+53,Cox,Software Engineer I,"Atlanta, GA",ð,1mo
+54,â³,Software Engineer I,"Oklahoma City, OKAtlanta, GA",ð,1mo
+55,Sierra Nevada Coporation,Software Engineer I,"Southern Pines, NCReston, VA",ð,1mo
+56,Motorola,Entry Level Software Engineer,"Edinburgh, UK",ð,1mo
+57,Chewy,Software Engineer I,"Boston, MAFort Lauderdale, FL",ð,1mo
+58,ð¥ Meta,Software Engineer â University Grad - Research Infrastructure,"Burlingame, CARedmond, WA",ð,1mo
+59,LexisNexis Risk Solutions,Software Engineer I,"Surrey, BC, Canada",ð,1mo
+60,State Street,Software Engineer I,"Burlington, MA",ð,1mo
+61,Gentex Corporation,Software Engineer I - Plm,"Holland, MI",ð,1mo
+62,The Boeing Company,Entry Level Full-Stack Software Engineer,"Aurora, COChantilly, VA",ð,1mo
+63,Twilio,Software Engineer â Early Career - Messaging API,United States,ð,1mo
+64,Noom,Software Engineer â New Grad,"Princeton, NJ",ð,1mo
+65,FourKites,Software Engineer I,Remote in USA,ð,1mo
+66,Expedia,Eggp â Software Development Engineer I,"Seattle, WA",ð,1mo
+67,Cox,Software Engineer I,"Draper, UT",ð,1mo
+68,Plusgrade,Junior Software Developer / DÃ©veloppeur logiciel junior,"Montreal, QC, Canada",ð,1mo
+69,RTX,Software Engineer I - Java,"Fulton, MD",ð,1mo
+70,Chewy,Software Engineer I,"Boston, MA",ð,1mo
+71,Expedia Group,Eggp â Software Development Engineer I,"London, UK",ð,1mo
+72,ð¥ Uber,Software Engineer I - Authorization Platform,"Seattle, WASFSunnyvale, CA",ð,1mo
+73,USAA,Software Engineer I,"San Antonio, TX",ð,1mo
+74,Chewy,Software Engineer I,"Boston, MA",ð,1mo
+75,WebFX,Entry Level Software Engineer,"Harrisburg, PA",ð,1mo
+76,SMX,Junior Software Engineer - Ts/Sci CI Poly,"Chantilly, VA",ð,1mo
+77,ð¥ Uber,Graduate 2025 Software Engineer I,"Toronto, ON, Canada",ð,1mo
+78,â³,Graduate 2025 Software Engineer I,"Toronto, ON, Canada",ð,1mo
+79,Sentry,Software Engineer â New Grad,"Toronto, ON, Canada",ð,1mo
+80,Qualtrics,Software Engineer I - Research Methodologies,"Seattle, WA",ð,2mo
+81,Blue Yonder,Software Engineer I,"Dallas, TX",ð,2mo
+82,Aledade,Software Engineer I,"Bethesda, MD",ð,2mo
+83,Rockwell Automation,Early in Career Windows Software Engineer - C++ - C#,"Phoenix, AZ",ð,2mo
+84,Mastercard,Software Engineer I,"London, UK",ð,2mo
+85,Persona,Software engineer â New grad,SF,ð,2mo
+86,7shifts,Junior Software Developer,"Toronto, ON, Canada",ð,2mo
+87,Twilio,Software Engineer â Early Career - Messaging API,Remote in USA,ð,2mo
+88,Truist,Software Engineer I,NYC,ð,2mo
+89,Ultra Intelligence and Communications,Software Engineer 1,"Austin, TXHuntsville, AL",ð,2mo
+90,Truist,Software Engineer I (broken link),NYC,ð,2mo
+91,Nutanix,Software Engineer 1 / Early Career - C++/Go/Linux/AWS-S3,"Durham, NC",ð,2mo
+92,Affirm,Software Engineer I - Backend - Identity Decisioning,Remote in Canada,ð,2mo
+93,â³,Software Engineer I - Backend - Identity Decisioning,Remote in USA,ð,2mo
+94,Procter & Gamble (P&G),Junior Software Developer,"Newcastle upon Tyne, UK",ð,2mo
+95,Amentum,Entry Level Software Engineer,"Fredericksburg, VADahlgren, VA",ð,2mo
+96,â³,Entry Level Software Engineer,"Fredericksburg, VADahlgren, VA",ð,2mo
+97,â³,Entry Level Software Engineer,"Fredericksburg, VADahlgren, VA",ð,2mo
+98,Relativity Space,Software Engineer I - Factory Platform,"Long Beach, CA",ð,2mo
+99,RTX,Software Engineer I,"Richardson, TX",ð,2mo
+100,RTX,Software Development Engineer I,"Bristol, RI",ð,2mo
+101,â³,Software Engineer I,"Richardson, TX",ð,2mo
+102,Hyperproof,Entry Level Full Stack AI Engineer,Remote in USARemote in Canada,ð,2mo
+103,Esri,3D Software Engineer I - Scene Layers,"West Redlands, Redlands, CA",ð,2mo
+104,Cadence Design Systems,C++ Software Engineer â New College Grad,"Burlington, MA",ð,2mo
+105,Relativity Space,Software Engineer I - Factory Platform,"Long Beach, CA",ð,2mo
+106,Comcast,Engineer 1 - Software Dev/Eng - Full Stack,"Philadelphia, PA",ð,2mo
+107,RTX,Software Engineer I - Java,"Fulton, MD",ð,2mo
+108,Cox,Software Engineer 1,"Carmel, IN",ð,2mo
+109,Omnicell,Software Engineer I,"Cranberry Twp, PA",ð,2mo
+110,Amentum,Entry Level Software Developer,"Dahlgren, VA",ð,2mo
+111,Truist,Software Engineer I / Ncino Developer,"Atlanta, GA",ð,2mo
+112,Qualtrics,Software Engineer I - Foundation,"Seattle, WAReston, VA",ð,2mo
+113,Robert Half,Software Engineer I,"San Ramon, CA",ð,2mo
+114,Medtronic,Software Engineer I,"Northridge, LASan Diego, CA",ð,2mo
+115,Yahoo,Software Dev Engineer I - Data Platforms,"Urbana, IL",ð,2mo
+116,CACI,Junior Software Developer,"Dulles, VA",ð,2mo
+0,ð¥ Adobe,2026 University Graduate - Product Manager,"San Jose, CALehi, UT",,0d
+1,ð¥ TikTok,Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product),"San Jose, CA",,0d
+2,â³,Product Manager Ads Attribution and Measurement Graduate (Measurement Signal and Privacy Product),"San Jose, CA",,0d
+3,ð¥ Databricks,Associate Product Manager â New Grad - 2026 Start,"SFBellevue, WAMountain View, CA",,8d
+4,ð¥ TikTok,Product Manager (TikTok-Product-Social and Creation) - 2025 Start (BS/MS),"San Jose, CA",,16d
+0,Worldpay,Data Engineer I,"Cincinnati, OH",,0d
+1,ð¥ NVIDIA,"Deep Learning Software Engineer, FlashInfer","Santa Clara, CA",,0d
+2,Citadel Securities,Machine Learning Researcher ð,"Miami, FLNew York, NY",,0d
+3,Applied Intuition,Research Engineer â New Grad ð,"Mountain View, CA",,1d
+4,Chord Energy,Junior Data Engineer Azure,"Houston, TX",,2d
+5,ð¥ Pinterest,Machine Learning Engineer I - Monetization Engineering,"Palo Alto, CASeattle, WASF",,2d
+6,Harris,Junior Computational Linguist,"10 locationsVAWIAZTNMIMAMOCONMRemote, London, UK",,3d
+7,ð¥ TikTok,Machine Learning Engineer Graduate (Monetization Technology - TikTok Ads Creative & Ecosystem) - 2026 Start (BS/MS),"San Jose, CA",,5d
+8,ð¥ ByteDance,Software Engineer Graduate (Applied Machine Learning - Enterprise) - 2026 Start (BS/MS),"San Jose, CA",,5d
+9,â³,Software Engineer Graduate (Applied Machine Learning - MLDev) - 2026 Start (BS/MS),"San Jose, CA",,5d
+10,Blue Origin,Machine Learning Engineer/Scientist I â Early Career 2025 University Grad,"Seattle, WAKent, WA",,6d
+11,Jump Trading,Campus ML Engineer (Full-Time),"Chicago, ILNew York, NY",,6d
+12,Applied Intuition,Research Scientist - New Grad,"Mountain View, CA",,8d
+13,Analytical Mechanics Associates,AI/ML Research Associate ðºð¸,"Hampton, VARemote",,8d
+14,The Home Depot,Associate Data Scientist - MET ð,"Atlanta, GA",,8d
+15,ð¥ Databricks,Data Scientist,"Mountain View, CASan Francisco, CA",,8d
+16,U.S. Venture,Data Analyst I (Breakthrough) ð,"Green Bay, WI",,11d
+17,ð¥ Tesla,"Machine Learning Engineer, Model Optimization & Deployment, Optimus","Palo Alto, CA",,11d
+18,ð¥ TikTok,Machine Learning Engineer - Search E-Commerce,"Seattle, WA",,12d
+19,ð¥ NVIDIA,"Research Scientist, Robotics Research","Seattle, WA",,12d
+20,ð¥ TikTok,Machine Learning Engineer â University Graduate - E-Commerce Risk Control - Phd ð,"Seattle, WA",,13d
+21,â³,Machine Learning Engineer â University Graduate - E-Commerce Recommendation/Search Alliance - Phd ð,"Seattle, WA",,13d
+22,ð¥ TikTok,"Research Scientist - CV/NLP/Multimodal LLM, Trust and Safety - 2026 Start (BS/MS)","Seattle, WA",,16d
+23,â³,Machine Learning Engineer (Lead Ads Technology) - 2026 Start (BS/MS),"San Jose, CA",,16d
+24,â³,Software Engineer (Ads ML Infrastructure) - 2026 Start (BS/MS),"San Jose, CA",,16d
+25,Qualtrics,Machine Learning Engineer ð,"Seattle, WA",,16d
+26,ð¥ TikTok,New Grad 2026: Machine Learning Engineer (Commerce Ads),"San Jose, CA",,18d
+27,â³,New Grad 2026: Machine Learning/Research Engineer (Ads Core Global),"San Jose, CA",,18d
+28,The Travelers Companies,Software Engineer I - Artificial Intelligence in Underwriting,"Hartford, CTSt Paul, MN",,19d
+29,SHEIN,Big Data Engineer I ð,"San Diego, CA",,21d
+30,LMI,Junior Data Analyst - TS/SCI Required,"Washington, DC",,21d
+31,Spotify,Associate Machine Learning Engineer,"New York, NY",,21d
+32,ð¥ Lyft,PhD New Grad - Data Scientist - Algo - Inference - Driver Incentives ð,"Toronto, ON, Canada",,28d
+33,ð¥ Pinterest,Machine Learning Engineer I ð,SFRemote in USA,,1mo
+34,EvenUp,Early Career Machine Learning Engineer,"San Francisco, CAToronto, ON",,1mo
+0,PJM,Data Engineer I,"King of Prussia, PA",ð,19d
+1,EvenUp,Early Career Machine Learning Engineer,"Toronto, ON, Canada",ð,23d
+2,Machinify,Data Engineer I,"Palo Alto, CA",ð,28d
+3,Caterpillar Inc.,Aftermarket Data Engineer I - Cat Digital,"Chicago, IL",ð,1mo
+4,Expedia,Data Engineer I,"Seattle, WA",ð,1mo
+5,Fifth Third Bank,Consumer IT - Data Engineer I,"Cincinnati, OH",ð,1mo
+6,USAA,Data Engineer I,"San Antonio, TX",ð,1mo
+7,Xapien,Junior Applied Research Engineer â Graduate,"London, UK",ð,1mo
+8,Guidewire,Machine Learning Engineer I - Generative AI,"San Mateo, CA",ð,1mo
+9,Capital Rx,Data Engineer I,"New York, NYDenver, CO",ð,1mo
+10,Tyson Foods,Data Engineer I,"Springdale, AR",ð,2mo
+11,ð¥ Meta,Data Engineer â University Grad,"London, UK",ð,2mo
+12,Tyson Foods,Data Engineer I,"Springdale, AR",ð,2mo
+13,Taco Bell,Data Engineer I,"Irvine, CA",ð,2mo
+14,Fifth Third Bank,Data Engineer I - Regulatory Reporting,"Cincinnati, OH",ð,2mo
+15,USAA,Data Engineer â Entry Level,"Plano, TX",ð,2mo
+16,TD Bank,Machine Learning Engineer I,"Toronto, ON, Canada",ð,2mo
+0,Citadel Securities,Quantitative Researcher â PhD Graduate ð,"Miami, FLNew York, NY",,0d
+1,Edgehog Trading,C++ Software Developer â Trading Strategy Execution,"Chicago, IL",,1d
+2,Hudson River Trading,Algorithm Developer (Quant Researcher) â 2026 Grads,"New York, NY",,5d
+3,Jump Trading,Campus Quantitative Trader (Full-Time),"Chicago, ILNew York, NY",,6d
+4,â³,Campus Quantitative Researcher (Full-Time),"Chicago, ILNew York, NY",,6d
+5,Trexquant,Quantitative Researcher,"Stamford, CT",,13d
+6,Old Mission,College Graduates - Full-Time - Junior Quantitative Trader,"London, UK",,1mo
+7,â³,College Graduates - Full-Time - Junior Quantitative Trader,"Chicago, IL",,1mo
+8,Akuna Capital,Junior Quantitative Developer & Strategist,"Chicago, IL",,1mo
+9,â³,Junior Quantitative Researcher,"Chicago, IL",,1mo
+10,Citadel Securities,Quantitative Research Analyst â University Graduate,"London, UKParis, FranceDublin, Ireland",,1mo
+11,â³,Quantitative Trader â University Graduate,"Miami, FLNew York, NY",,1mo
+12,Citadel,Quantitative Research Analyst â University Graduate,"London, UKParis, FranceDublin, Ireland",,1mo
+13,Citadel Securities,Quantitative Research Analyst â University Graduate,"Miami, FLNew York, NY",,1mo
+14,Citadel,Quantitative Research Engineer â University Graduate,"Miami, FLNew York, NY",,1mo
+0,Hewlett Packard Enterprise,Electrical/Hardware Engineer I,"Houston, TX",,5d
+1,Sev1Tech,Software Developer â Entry Level,"Lawton, OK",,5d
+2,KBR,Software Engineer I,"Colorado Springs, CO",,5d
+3,ð¥ Amazon,"Robotics Systems Engineer, Amazon Robotics Deployment Engineering","Austin, TXSeattle, WANorth Reading, MA",,5d
+4,Blue Origin,Avionics Software Engineer 1 â Early Career 2025 University Grad,"Kent, WAHuntsville, AL",,6d
+5,"Becton, Dickinson and Company",Software Engineer I,"Sparks, MD",,6d
+6,Applied Intuition,Embedded Software Engineer - New Grad,"Mountain View, CA",,8d
+7,Anduril Industries,"Air Dominance & Strike - Flight Software Engineer, Embedded C/C++ ð","Costa Mesa, CA",,8d
+8,Lumafield,Embedded Systems Engineer ð,"Boston, MAEverett, MA",,11d
+9,Leidos,Software Developer â Entry level,"Lawton, OK",,13d
+10,Blue Origin,Intern Conversion: â Early Career - Avionics Software Engineer I,"8 locationsSeattle, WAWashington, DCLACape Canaveral, FLPhoenix, AZDenver, COHuntsville, ALVan Horn, TX",,13d
+11,CACI,Entry Level DSP Software Engineer,"Rochester, NY",,1mo
+12,Cadence Design Systems,C++ Software Engineer â New College Grad,"Burlington, MA",,1mo
+13,ð¥ Google,Silicon Development Engineer â University Graduate - Frontend - PhD ð,"Madison, WISunnyvale, CA",,2mo
+0,The Boeing Company,Entry Level Software Engineer - Developer,"Oklahoma City, OK",ð,6d
+1,Ciena,New Grad: Wavelogic Software Development,"Ottawa, ON, Canada",ð,1mo
+2,RTX,Software Engineer I - Embedded Communications,"Fort Wayne, IN",ð,1mo
+3,RTX,Embedded Cybersecurity Software Engineer I,"Cedar Rapids, IA",ð,1mo
+4,Cadence Design Systems,C++ Software Engineer â New College Graduate,"Boston, MA",ð,1mo
+5,â³,C++ Software Engineer â New College Grad,"Burlington, MA",ð,1mo
+6,Dell Technologies,Hardware Engineer 1,"Westborough, MA",ð,1mo
+7,Cadence Design Systems,C++ Software Engineer â New College Graduate,"Boston, MA",ð,1mo
+8,Iridium Communications,Software Engineer I,"Tempe, AZ",ð,2mo
+9,The Boeing Company,Entry Level Software Engineer,"Hazelwood, MO",ð,2mo
+10,RTX,Software Engineer I - Embedded Communications,"Cedar Rapids, IA",ð,2mo
+11,Cadence Design Systems,C++ Software Engineer â New College Grad,"Burlington, MA",ð,2mo
+12,Medtronic,Hardware Engineer I,"Lafayette, CO",ð,2mo
+13,RTX,Software Engineer I - C++,"Fulton, MD",ð,2mo
+0,Sierra Nevada Coporation,Cybersecurity Engineer I,"Sparks, NV",,0d
+1,ð¥ TikTok,Special Project Strategist Graduate (TikTok Shop - Operations),"San Jose, CA",,0d
+2,ð¥ ByteDance,Cloud Network Engineer Graduate(Physical Network Infra),"San Jose, CA",,1d
+3,â³,Network Engineer Graduate (Physical Network Infra),"Seattle, WA",,1d
+4,â³,Network Engineer Graduate (Physical Network Infra),"San Jose, CA",,1d
+5,â³,Cloud Network Engineer Graduate(Physical Network Infra),"Seattle, WA",,1d
+6,â³,Site Reliability Engineer Graduate (Data Infrastructure),"Seattle, WA",,1d
+7,Housecall Pro,Graduate AI Solutions Specialist,"Denver, CO",,1d
+8,Chime,Product Security Engineer,"San Francisco, CA",,1d
+9,ð¥ ByteDance,Network Engineer Graduate (Edge Network) - 2026 Start (BS/ MS),"San Jose, CA",,5d
+10,Jump Trading,Campus AI Researcher (Full-Time),"Chicago, ILNew York, NY",,6d
+11,CVS Health,Associate Cloud Architect,"Remote, TX",,8d
+12,ð¥ TikTok,Product Security Engineer - Security Assurance,"Seattle, WA",,12d
+13,Goldman Sachs,New Analyst,"New York, NY",,27d
+0,Motorola Solutions,Software Engineer,"Schaumburg, ILChicago, IL",ð,1d
