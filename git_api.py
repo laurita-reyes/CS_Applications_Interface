@@ -1,10 +1,17 @@
 import base64
-
+import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 from pygments.lexers import q
 
 import config
+class Job:
+    def __init__(self, company, role, location, link, age):
+        self.company = company
+        self.role = role
+        self.location = location
+        self.link = link
+        self.age = age
 
 owner = "SimplifyJobs"
 repo = "New-Grad-Positions"
@@ -34,7 +41,9 @@ for row in rows:
         # job link is in td, but within the <a> tag
         link = cols[3].find("a")["href"] if cols[3].find("a") else None
         age = cols[4].get_text(strip=True)  # last <td> is posted date
-        print(f'company: {company}, role:{role} ,location:{location}, application: {link}, age: {age}\n')
-        job_data.append([company, role, location, link, age])
+        job = [company, role, location, link, age]
+        #print(f'company: {company}, role: {role} ,location: {location}, application: {link}, age: {age}\n')
+        job_data.append(job)
 
-# df = pd.DataFrame(job_data,['Company', 'Role', 'Location', 'Application', 'Age'])
+df = pd.DataFrame(job_data, columns=['company', 'role', 'location', 'link', 'age'])
+print(df.to_csv('jobs.csv',index=False))
