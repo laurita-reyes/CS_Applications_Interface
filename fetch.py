@@ -6,7 +6,7 @@ from process import fix_locations
 
 
 def main():
-    # returns the Github jobs added daily
+    # returns the GitHub jobs added daily
     file_name = git_api.git_api()
     file = open(file_name, 'r', newline='')
     df = pd.read_csv(file)
