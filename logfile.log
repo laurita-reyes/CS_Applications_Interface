@@ -2,3 +2,4 @@
 /Users/laurareyes/Projects/PycharmProjects/github_app/fetch.py: line 3: 0: command not found
 /bin/sh: /Users/laurareyes/Projects/PycharmProjects/github_app/fetch.py: No such file or directory
 /bin/sh: /Users/laurareyes/Projects/PycharmProjects/github_app/fetch.py: No such file or directory
+/bin/sh: /Users/laurareyes/Projects/PycharmProjects/github_app/script.py: Permission denied
