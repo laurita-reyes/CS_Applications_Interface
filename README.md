@@ -1,0 +1,1 @@
+This script uses the Github API to scrape data from the https://github.com/SimplifyJobs/New-Grad-Positions repo. I made this so that I could stop searching for the git repo everyday and instead I used this script to make a cronjob to run on my mac everyday at 12:00am. Now I can see the jobs right from my desktop
