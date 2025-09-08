@@ -2,9 +2,9 @@ import base64
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-from pygments.lexers import q
 from datetime import datetime
 import config
+
 
 def git_api():
     owner = "SimplifyJobs"
@@ -30,17 +30,20 @@ def git_api():
 
         if len(cols) >= 5:
 
-            company = cols[0].get_text(strip=True)  # first <td> is company name
+            # first <td> is company name
+            company = cols[0].get_text(strip=True)
             role = cols[1].get_text(strip=True)  # job title
             location = cols[2].get_text(separator=', ')  # location
             # job link is in td, but within the <a> tag
             link = cols[3].find("a")["href"] if cols[3].find("a") else None
             age = cols[4].get_text(strip=True)  # last <td> is posted date
             job = [company, role, location, link, age]
-            print(f'company: {company}, role: {role} ,location: {location}, application: {link}, age: {age}\n')
+            print(
+                f'company: {company}, role: {role} ,location: {location}, application: {link}, age: {age}\n')
             job_data.append(job)
 
-    df = pd.DataFrame(job_data, columns=['company', 'role', 'location', 'link', 'age'])
+    df = pd.DataFrame(job_data, columns=[
+                      'company', 'role', 'location', 'link', 'age'])
     file_name = 'jobs' + datetime.today().strftime('%Y-%m-%d') + '.csv'
     df.to_csv(file_name, index=False)
 
