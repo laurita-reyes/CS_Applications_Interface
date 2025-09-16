@@ -1,4 +1,4 @@
-cd /Users/laurareyes/Projects/PycharmProjects/github_app/
-source .venv/bin/activate
-python script.py
+ #!/usr/bin/python
+exec eval "source .venv/bin/activate"
+exec eval "python script.py"
 

@@ -1,7 +1,6 @@
 import git_api
 import process
 import pandas as pd
-from crontab import CronTab
 
 
 def main():
